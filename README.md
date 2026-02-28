@@ -1,6 +1,6 @@
 # CS320 Portfolio - Developer: Ryan Magante
 
-## Welcome to my CS320 Portfolio
+
 
 ## About this Course
 
